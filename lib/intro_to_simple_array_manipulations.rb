@@ -7,7 +7,7 @@ def using_unshift()
   
 end
 
-def name()
+def using_pop()
   
 end
 
