@@ -12,7 +12,7 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  array.pop(2 )#
+  array.pop(2 )#the pop method with an argument of 2 to remove the last two array items and return them
 end
 
 def using_shift()
