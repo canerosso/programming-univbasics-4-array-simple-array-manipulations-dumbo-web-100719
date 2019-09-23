@@ -15,8 +15,8 @@ def pop_with_args(array)
   array.pop(2 )#the pop method with an argument of 2 to remove the last two array items and return them
 end
 
-def using_shift()
-  
+def using_shift(array)
+  array.shift()
 end
 
 def shift_with_args()
