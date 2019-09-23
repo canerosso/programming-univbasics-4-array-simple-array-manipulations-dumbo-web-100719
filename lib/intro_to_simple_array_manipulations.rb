@@ -15,7 +15,19 @@ def pop_with_args()
   
 end
 
-def name()
+def using_shift()
+  
+end
+
+def ()
+  
+end
+
+def ()
+  
+end
+
+def ()
   
 end
 
