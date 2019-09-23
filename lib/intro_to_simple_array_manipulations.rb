@@ -11,8 +11,8 @@ def using_pop(array)
   array.pop;#the pop method removes the last element from the array and returns that element (not the new array)
 end
 
-def pop_with_args()
-  
+def pop_with_args(array)
+  array.pop(2 )#
 end
 
 def using_shift()
