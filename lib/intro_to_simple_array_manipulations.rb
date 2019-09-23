@@ -19,8 +19,8 @@ def using_shift(array)
   array.shift()# using_shift takesin an argument of an array and uses the shift method to remove the first item and return it
 end
 
-def shift_with_args()
-  
+def shift_with_args(array)
+  array.shift(2)
 end
 
 def using_concat()
